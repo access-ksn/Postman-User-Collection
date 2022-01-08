@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "b6acc97b-cdd2-47b0-814b-e4022440f2e2",
+		"_postman_id": "9765fead-87ea-4634-9a19-938241358957",
 		"name": "UsersCollection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -61,7 +61,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer 2cde04d09bd7847fef0f128bab29bcbb4362726ab55133ef51badf86ee45b6f6",
+						"value": "Bearer ",
 						"type": "text"
 					}
 				],
@@ -128,7 +128,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer 2cde04d09bd7847fef0f128bab29bcbb4362726ab55133ef51badf86ee45b6f6",
+						"value": "Bearer ",
 						"type": "text"
 					}
 				],
@@ -186,7 +186,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer 2cde04d09bd7847fef0f128bab29bcbb4362726ab55133ef51badf86ee45b6f6",
+						"value": "Bearer ",
 						"type": "text"
 					}
 				],
@@ -227,7 +227,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer 2cde04d09bd7847fef0f128bab29bcbb4362726ab55133ef51badf86ee45b6f6",
+						"value": "Bearer ",
 						"type": "text"
 					}
 				],
@@ -277,7 +277,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer 2cde04d09bd7847fef0f128bab29bcbb4362726ab55133ef51badf86ee45b6f6",
+						"value": "Bearer ",
 						"type": "text"
 					}
 				],
@@ -332,7 +332,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer 2cde04d09bd7847fef0f128bab29bcbb4362726ab55133ef51badf86ee45b6f6",
+						"value": "Bearer ",
 						"type": "text"
 					}
 				],

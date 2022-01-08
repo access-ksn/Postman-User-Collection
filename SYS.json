@@ -1,11 +1,11 @@
 {
-	"id": "79d8d6ba-bbce-49f8-8a9a-821ce683073b",
+	"id": "981d7f2e-661b-40fd-a419-088f01f15014",
 	"name": "SYS",
 	"values": [
 		{
 			"key": "baseUrl",
 			"value": "https://gorest.co.in",
-			"type": "default",
+			"type": "secret",
 			"enabled": true
 		},
 		{
@@ -30,6 +30,6 @@
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2022-01-08T04:26:17.269Z",
+	"_postman_exported_at": "2022-01-08T06:22:53.505Z",
 	"_postman_exported_using": "Postman/9.8.2"
 }
